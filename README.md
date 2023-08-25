@@ -22,7 +22,7 @@ The project focuses on the following tasks:
    a) Select an approximation method based on your index number.
    
    b) Tabulate the coefficients of the transfer function.
-   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Coefficients.jpg"></p>
+   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Coefficients.png"></p>
    <br>
    
    c) Plot the magnitude response in the frequency domain.
