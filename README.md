@@ -33,11 +33,11 @@ The project focuses on the following tasks:
    <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Magnitude_PB_IIR.jpg"></p>
    <br>
 
-2. Compare the computational complexity (order, number of multiplications, and additions) of the designed FIR and IIR filters.
+3. Compare the computational complexity (order, number of multiplications, and additions) of the designed FIR and IIR filters.
 
-   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Complexity_FIR.jpg"></p>
+   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Complexity_FIR.png"></p>
    <br>
-   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Complexity_PB_IIR.jpg"></p>
+   <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/FIR-and-IIR-Filter-Design/blob/master/Images/Complexity_IIR.png"></p>
    <br>
 
 ### I have included here:
